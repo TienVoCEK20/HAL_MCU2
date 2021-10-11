@@ -231,4 +231,5 @@
 			<resource resourceType="PROJECT" workspacePath="time_base_100ms"/>
 		</configuration>
 	</storageModule>
+	<storageModule moduleId="org.eclipse.cdt.make.core.buildtargets"/>
 </cproject>
